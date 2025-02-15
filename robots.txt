@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://szcka.csgad.com/QCT/sitemap.xml.gz
